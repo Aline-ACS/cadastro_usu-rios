@@ -1,0 +1,11 @@
+{
+  "name": "cadastro_usuarios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Aline-ACS/cadastro_usuarios.git",
+  "author": "Aline-Acs <aline_capoani@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
